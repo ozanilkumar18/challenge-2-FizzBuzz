@@ -1,4 +1,4 @@
-# Frontend Challenge 1 - EmailMessageCard component
+# Node js - FizzBuzz Challeneg
 
 ### How to view/demo component
 
