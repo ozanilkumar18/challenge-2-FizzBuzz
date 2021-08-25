@@ -1,31 +1,17 @@
-# JS Challenge 2 - FizzBuzz
+# Node js - FizzBuzz Challeneg
 
-Please make a js file called fizzBuzz.js and export a function that takes in a start number and finish number and produces a CSV string of results.
+### How to view/demo component
 
-Note: This is just a JS challenge, no need for any react
+## Available Scripts
 
-- For every number that is divisible by 3 and 5, console log "FizzBuzz".
-- For every number that is divisible by only 3 and not 5, console log "Fizz".
-- For every number that is divisible by only 5 and not 3, console .log "Buzz".
+In the project directory, you can run:
 
-For example `fizzBuzz(12, 20)` should return a string: 
-`"Fizz, 13, 14, FizzBuzz, 16, 17, Fizz, 19, Buzz"`
+### `yarn install`
 
+To run code without Jest, Please pass required data in test.ts and run "yarn start"
 
-- For extra points! 😍 but not essential
-    - TDD
-    - Typescript
-    - Functional programming
+### `yarn start`
 
+To run unit tests, please use below command
 
-### How to run tests (if tests provided)
-
-TODO put instructons here ... e.g.
-
-```sh
-$ yarn
-```
-
-```sh
-$ yarn test
-```
+### `yarn jest`
